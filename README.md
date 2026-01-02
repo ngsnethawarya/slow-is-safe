@@ -1,2 +1,5 @@
-# slow-is-safe
-A reminder that slowing down improves security work.
+Moving fast breaks things.
+Moving slowly reveals patterns.
+
+Most mistakes I’ve made came from rushing.
+Slowing down has saved me more time than speed ever did.
